@@ -6,7 +6,7 @@
 
 ## SOBRE MI
 - Soy un estudiante en la tecnicatura universitaria en programacion en UTN avellaneda, apasionado por el desarrollo web. :)
-- LinkedIn: https://www.linkedin.com/in/lucas-gerez-36520423a/
+- LinkedIn: https://www.linkedin.com/in/lucas-gerez
 <br>  
 
 <h2> 🚀 &nbsp;Tecnologías que manejo</h2>
