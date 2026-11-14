@@ -8,11 +8,11 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un apasionado **Desarrollador de Software** y estudiante de la **Tecnicatura Universitaria en Programación en la UTN (Avellaneda)**. Actualmente me encuentro en la búsqueda de mi primera oportunidad profesional como **Desarrollador Jr.** para aportar valor, seguir creciendo técnicamente y colaborar activamente en equipos de trabajo dinámicos. Me caracterizo por ser una persona proactiva, organizada y resolutiva.
+Soy un **Desarrollador de Software** y estudiante de la **Tecnicatura Universitaria en Programación en la UTN (Avellaneda)**. Actualmente me encuentro en la búsqueda una oportunidad profesional como **Desarrollador** para aportar valor, seguir creciendo técnicamente y colaborar activamente en equipos de trabajo dinámicos. Me caracterizo por ser una persona proactiva, organizada y resolutiva.
 
-- 🎓 **Estudio:** Tecnicatura Universitaria en Programación (UTN Avellaneda)[cite: 2].
-- 🌐 **Intereses:** Desarrollo Web Full Stack, Backend robusto y optimización con herramientas de IA (Claude, Gemini)[cite: 2].
-- 🗣️ **Idiomas:** Español (Nativo) | Inglés (Intermedio - B1)[cite: 2].
+- 🎓 **Estudio:** Tecnicatura Universitaria en Programación (UTN Avellaneda).
+- 🌐 **Intereses:** Desarrollo Web Full Stack, Backend robusto y optimización con herramientas de IA (Claude, Gemini).
+- 🗣️ **Idiomas:** Español (Nativo) | Inglés (Intermedio - B1).
 
 ---
 
@@ -54,6 +54,6 @@ Soy un apasionado **Desarrollador de Software** y estudiante de la **Tecnicatura
 
 ## 📫 ¿Cómo contactarme?
 
-- 💼 **LinkedIn:** [linkedin.com/in/lucas-gerez](https://www.linkedin.com/in/lucas-gerez)[cite: 2]
-- 📧 **Email:** gerezlucas003@gmail.com[cite: 2]
-- 📍 **Ubicación:** Avellaneda, Buenos Aires, Argentina[cite: 2]
+- 💼 **LinkedIn:** [linkedin.com/in/lucas-gerez](https://www.linkedin.com/in/lucas-gerez)
+- 📧 **Email:** gerezlucas003@gmail.com
+- 📍 **Ubicación:** Avellaneda, Buenos Aires, Argentina.
