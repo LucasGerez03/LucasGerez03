@@ -43,7 +43,7 @@ Desarrollador de software con sólida formación técnica y estudiante de la Tec
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC99CC?style=flat-square&logo=anthropic&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Antigraviti](https://img.shields.io/badge/Antigraviti-6366F1?style=flat-square&logo=probot&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
